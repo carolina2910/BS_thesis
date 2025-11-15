@@ -1,0 +1,9 @@
+Average Metrics:
+Average RE Input-Target: 0.0946
+Average PSNR Input-Target: 24.6102
+Average SSIM Input-Target: 0.9246
+Average RMSE Input-Target: 0.0637
+Average RE Pred-Target: 0.0827
+Average PSNR Pred-Target: 27.9055
+Average SSIM Pred-Target: 0.9462
+Average RMSE Pred-Target: 0.0518
