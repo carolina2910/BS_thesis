@@ -1,7 +1,12 @@
 # Neural Network Training and Testing Pipeline
 
-A comprehensive pipeline for training and evaluating UNet and ResUNet models for image reconstruction tasks.
+## Introduction
+This Bachelor thesis focuses on training two neural networks, UNet and ResUNet, for image reconstruction tasks. More specifically, the input dataset consists of **Digital Breast Tomosynthesis (DBT)** images. The goal of this work is to enhance the quality of these breast scans in order to facilitate the detection of potential tumors or microcalcifications.
 
+The reconstructed images are then compared to the original DBT slices using three evaluation metrics: the Root Mean Squared Error (RMSE), the Structural Similarity Index Measure (SSIM), and the Peak Signal-to-Noise Ratio (PSNR). These metrics together provide a comprehensive assessment of the reconstruction quality.
+
+
+A comprehensive pipeline for training and evaluating UNet and ResUNet models for image reconstruction tasks.
 ## 📋 Table of Contents
 
 - [Overview](#overview)
