@@ -1,4 +1,4 @@
-# Neural Network Training and Testing Pipeline
+# Reconstruction of Digital Breast Tomosynthesis Images Using Convolutional Neural Networks
 
 ## Introduction
 This Bachelor thesis focuses on training two neural networks, UNet and ResUNet, for image reconstruction tasks. More specifically, the input dataset consists of **Digital Breast Tomosynthesis (DBT)** images. The goal of this work is to enhance the quality of these breast scans in order to facilitate the detection of potential tumors or microcalcifications.
